@@ -23,7 +23,7 @@
 }
 
 .answer:hover {
-  background: red;
+  background: black;
 }
 
 .answer {
@@ -36,7 +36,7 @@
 }
 
 .img-wrong {
-  margin-top: 40px;
+  margin-top: 50px;
 }
 
 .first-answer {
